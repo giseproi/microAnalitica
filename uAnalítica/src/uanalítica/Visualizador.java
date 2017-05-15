@@ -11,4 +11,9 @@ package uanalítica;
  */
 public class Visualizador {
     
+    int mostrarImagen(){
+        
+        return 0;
+    }
+    
 }
